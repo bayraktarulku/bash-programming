@@ -1,0 +1,16 @@
+[
+  {
+    "name": "nvi",
+    "params": {
+      "url": "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WSDL"
+    },
+    "status": "active"
+  },
+  {
+    "name": "slack",
+    "params": {
+      "channel_url": "https://hooks.slack.com/services/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"
+    },
+    "status": "active"
+  }
+]
